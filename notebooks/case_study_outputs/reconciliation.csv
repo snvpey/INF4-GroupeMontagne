@@ -1,7 +1,7 @@
 Etape,Nombre de lignes
 Lignes initiales (case_sales.csv),252
 Moins : Doublons exacts,-2
-Moins : Enregistrements invalides (sales_review),-250
+Moins : Enregistrements invalides (sales_review),-7
 Commandes valides (sales_valid),243
 Moins : Magasin inconnu / non référencé,-1
 Moins : Produit inconnu / non référencé,-1

@@ -1,0 +1,5 @@
+store_id,store_name,city,store_format,order_count,total_units,total_revenue_eur,mean_order_revenue_eur,median_order_revenue_eur
+S2,Paris Est,Paris,Large,70,116,10528.9,150.41,79.8
+S1,Paris Centre,Paris,Small,91,155,6482.9,71.24,39.9
+S4,Lille Centre,Lille,Large,30,51,5712.5,190.42,158.5
+S3,Lyon Centre,Lyon,Small,50,86,4982.5,99.65,64.45
